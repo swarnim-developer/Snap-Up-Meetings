@@ -1,4 +1,4 @@
-package com.oracto.jitsi;
+package snap.up.meetings;
 
 import androidx.appcompat.app.AppCompatActivity;
 
